@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NumberTrivia</string>
+    <string name="action_settings">Settings</string>
+    <string name="trivia_number_placeholder">999</string>
+    <string name="trivia_text_placeholder">This is some trivia about the number 999.</string>
+    <string name="add_trivia_button_content">Press to add some trivia!</string>
+</resources>
